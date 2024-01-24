@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EIEDEV 
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Frontend 
+- 🌱 I’m currently learning DJANGO STACK 
 - 💞️ I’m looking to collaborate on any project relating to web development
 
 <!---
